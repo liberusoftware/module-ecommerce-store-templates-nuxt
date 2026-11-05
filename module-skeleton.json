@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-store-templates-nuxt",
+  "capabilityKey": "planned:ecommerce:store-templates",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-store-templates-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/store-templates.md",
+  "presentationPlan": "projects/ecommerce/nuxt/store-templates.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
